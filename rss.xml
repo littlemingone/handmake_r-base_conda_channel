@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>anaconda.org/littleming</title>
+    <link>https://conda.anaconda.org/littleming</link>
+    <description>The most recent 1 updates for littleming.</description>
+    <pubDate>Thu, 23 May 2024 07:46:10 GMT</pubDate>
+    <lastBuildDate>Thu, 23 May 2024 07:46:10 GMT</lastBuildDate>
+    <item>
+      <title>r-base 4.4.0 [win-64]</title>
+      <description>repackaged R-4.4.0 binary files to conda package. Made by littleming.</description>
+      <pubDate>Tue, 21 May 2024 13:08:30 GMT</pubDate>
+      <source>http://www.r-project.org/</source>
+    </item>
+  </channel>
+</rss>
